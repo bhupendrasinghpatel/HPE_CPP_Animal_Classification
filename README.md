@@ -140,9 +140,6 @@ yolo task=detect mode=train model=yolov8l.pt data=custom.yaml imgsz=960 epochs=5
 - [YOLOv8 - Ultralytics](https://github.com/ultralytics/ultralytics)  
 - [Snapshot Serengeti Dataset](https://lila.science/datasets/snapshot-serengeti)  
 - [iWildCam Dataset](https://lila.science/datasets/iwildcam-2022)  
-- Beery et al. (2022), BioCLIP  
-- Borer et al. (2023), EcoTRANS  
-- Mensah et al. (2024), MobileViT for wildlife detection  
 
 ---
 
