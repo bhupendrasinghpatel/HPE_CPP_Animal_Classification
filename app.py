@@ -7,7 +7,7 @@ from PIL import Image
 from collections import Counter
 
 # Load YOLOv8 model
-model = YOLO('/Users/monishp/Downloads/runs/train/experiment_1/weights/best.pt')  # Update this path
+model = YOLO('weights/best.pt')  # Update this path
 
 st.title("HPE CPP Project")
 st.subheader("_Animal Species Classification in Forest through Camera Traps_")
