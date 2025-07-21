@@ -1,8 +1,7 @@
 
 # HPE CPP PROJECT
-## By Monish P, D V Vedith Varma, Mahika D, Aastha Priya, Bhupendra Singh
-
-**Camera Trap Animal Classification using YOLOv8**  
+## Camera Trap Animal Classification using YOLOv8
+**By Monish P, D V Vedith Varma, Mahika D, Aastha Priya, Bhupendra Singh**  
 🎯 Live Demo: [Click Here](https://hpecppanimalclassification-5s9sy6rkwbwt43tujlx5p2.streamlit.app/)
 
 ---
