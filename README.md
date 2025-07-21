@@ -2,7 +2,7 @@
 # HPE CPP Project: Camera Trap Animal Classification using YOLOv8
 **By Monish P, D V Vedith Varma, Mahika D, Aastha Priya, Bhupendra Singh**  
 🎯 Live Demo: [Click Here](https://hpecppanimalclassification-5s9sy6rkwbwt43tujlx5p2.streamlit.app/) <br>
-🎯 Powerpoint Presentation: [Click Here](https://docs.google.com/presentation/d/1212ER9rKRJuO9cSGTBcUy-vfRsgjCFmexNIrkKmXihA/edit?slide=id.p#slide=id.p)
+🎯 Powerpoint Presentation: [Click Here](https://docs.google.com/presentation/d/1212ER9rKRJuO9cSGTBcUy-vfRsgjCFmexNIrkKmXihA/edit?slide=id.p#slide=id.p) <br>
 🎯 Project Document: [Click Here](https://docs.google.com/document/d/1sqGlpHL5BWua5tqzlVCZgNkedA5cSsnlBauIx_40JWs/edit?usp=sharing)
 
 ---
